@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+*.cache
+
+# Node modules (на майбутнє)
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
